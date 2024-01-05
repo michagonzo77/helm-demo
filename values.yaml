@@ -1,0 +1,6 @@
+image:
+  name: myapp-image
+replicaCount: 3
+# Optional parameters:
+# dnsNames: []
+# envVariables: []
